@@ -1,0 +1,357 @@
+
+
+Below is the identified malicious hash.
+
+{
+    "md5": "9faa5e9c490ada35649710173cacd4ec",
+    "permalink": "https://www.virustotal.com/gui/file/cfa1cdc77a111497d3c397513b54015345e6962a972d2f0a76b84f3723ea0d3d/detection/f-cfa1cdc77a111497d3c397513b54015345e6962a972d2f0a76b84f3723ea0d3d-1452836922",
+    "positives": 26,
+    "resource": "9faa5e9c490ada35649710173cacd4ec",
+    "response_code": 1,
+    "scan_date": "2016-01-15 05:48:42",
+    "scan_id": "cfa1cdc77a111497d3c397513b54015345e6962a972d2f0a76b84f3723ea0d3d-1452836922",
+    "scans": {
+        "ALYac": {
+            "detected": "True",
+            "result": "Trojan.JS.Agent.HPK",
+            "update": "20160115",
+            "version": "1.0.1.8"
+        },
+        "AVG": {
+            "detected": "True",
+            "result": "HTML/Framer",
+            "update": "20160115",
+            "version": "16.0.0.4489"
+        },
+        "AVware": {
+            "detected": "True",
+            "result": "Malware.JS.Generic (JS)",
+            "update": "20160111",
+            "version": "1.5.0.21"
+        },
+        "Ad-Aware": {
+            "detected": "True",
+            "result": "Trojan.JS.Agent.HPK",
+            "update": "20160115",
+            "version": "3.0.2.1015"
+        },
+        "Agnitum": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160114",
+            "version": "5.5.1.3"
+        },
+        "AhnLab-V3": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160114",
+            "version": "2016.01.15.00"
+        },
+        "Alibaba": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "1.0"
+        },
+        "Antiy-AVL": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "1.0.0.1"
+        },
+        "Arcabit": {
+            "detected": "True",
+            "result": "Trojan.JS.Agent.HPK",
+            "update": "20160115",
+            "version": "1.0.0.642"
+        },
+        "Avast": {
+            "detected": "True",
+            "result": "JS:Includer-DF [Trj]",
+            "update": "20160115",
+            "version": "8.0.1489.320"
+        },
+        "Avira": {
+            "detected": "True",
+            "result": "JS/Redirector.cos",
+            "update": "20160115",
+            "version": "8.3.2.4"
+        },
+        "Baidu-International": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160114",
+            "version": "3.5.1.41473"
+        },
+        "BitDefender": {
+            "detected": "True",
+            "result": "Trojan.JS.Agent.HPK",
+            "update": "20160115",
+            "version": "7.2"
+        },
+        "Bkav": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160114",
+            "version": "1.3.0.7400"
+        },
+        "ByteHero": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "1.0.0.1"
+        },
+        "CAT-QuickHeal": {
+            "detected": "True",
+            "result": "HTML.BackDoor.K",
+            "update": "20160114",
+            "version": "14.00"
+        },
+        "CMC": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160111",
+            "version": "1.1.0.977"
+        },
+        "ClamAV": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160114",
+            "version": "0.98.5.0"
+        },
+        "Comodo": {
+            "detected": "True",
+            "result": "TrojWare.JS.Iframe.sa",
+            "update": "20160114",
+            "version": "23972"
+        },
+        "Cyren": {
+            "detected": "True",
+            "result": "JS/Redir.IA!Eldorado",
+            "update": "20160115",
+            "version": "5.4.16.7"
+        },
+        "DrWeb": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "7.0.17.11230"
+        },
+        "ESET-NOD32": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "12872"
+        },
+        "Emsisoft": {
+            "detected": "True",
+            "result": "Trojan.JS.Agent.HPK (B)",
+            "update": "20160115",
+            "version": "3.5.0.642"
+        },
+        "F-Prot": {
+            "detected": "True",
+            "result": "JS/Redir.IA!Eldorado",
+            "update": "20160114",
+            "version": "4.7.1.166"
+        },
+        "F-Secure": {
+            "detected": "True",
+            "result": "Trojan.JS.Agent.HPK",
+            "update": "20160115",
+            "version": "11.0.19100.45"
+        },
+        "Fortinet": {
+            "detected": "True",
+            "result": "JS/Redirector.LACT!tr",
+            "update": "20160115",
+            "version": "5.1.220.0"
+        },
+        "GData": {
+            "detected": "True",
+            "result": "Trojan.JS.Agent.HPK",
+            "update": "20160115",
+            "version": "25"
+        },
+        "Ikarus": {
+            "detected": "True",
+            "result": "Trojan.JS.Redirector",
+            "update": "20160115",
+            "version": "T3.1.9.5.0"
+        },
+        "Jiangmin": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "16.0.100"
+        },
+        "K7AntiVirus": {
+            "detected": "True",
+            "result": "Exploit ( 04c553ca1 )",
+            "update": "20160114",
+            "version": "9.212.18435"
+        },
+        "K7GW": {
+            "detected": "True",
+            "result": "Exploit ( 04c553ca1 )",
+            "update": "20160115",
+            "version": "9.212.18436"
+        },
+        "Kaspersky": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "15.0.1.13"
+        },
+        "Lionic": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160114",
+            "version": "1.5"
+        },
+        "Malwarebytes": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "2.1.1.1115"
+        },
+        "McAfee": {
+            "detected": "True",
+            "result": "JS/Redirector.aj",
+            "update": "20160115",
+            "version": "6.0.6.653"
+        },
+        "McAfee-GW-Edition": {
+            "detected": "True",
+            "result": "JS/Redirector.aj",
+            "update": "20160115",
+            "version": "v2015"
+        },
+        "MicroWorld-eScan": {
+            "detected": "True",
+            "result": "Trojan.JS.Agent.HPK",
+            "update": "20160115",
+            "version": "12.0.250.0"
+        },
+        "Microsoft": {
+            "detected": "True",
+            "result": "Trojan:JS/Redirector.GR",
+            "update": "20160115",
+            "version": "1.1.12400.0"
+        },
+        "NANO-Antivirus": {
+            "detected": "True",
+            "result": "Trojan.Url.IframeB.lbbeq",
+            "update": "20160115",
+            "version": "1.0.14.5380"
+        },
+        "Panda": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160114",
+            "version": "4.6.4.2"
+        },
+        "Qihoo-360": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "1.0.0.1077"
+        },
+        "Rising": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160114",
+            "version": "25.0.0.18"
+        },
+        "SUPERAntiSpyware": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "5.6.0.1032"
+        },
+        "Sophos": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "4.98.0"
+        },
+        "Symantec": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "20151.1.0.32"
+        },
+        "Tencent": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "1.0.0.1"
+        },
+        "TheHacker": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160114",
+            "version": "6.8.0.5.807"
+        },
+        "TotalDefense": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "37.1.62.1"
+        },
+        "TrendMicro": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "9.740.0.1012"
+        },
+        "TrendMicro-HouseCall": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "9.800.0.1009"
+        },
+        "VBA32": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "3.12.26.4"
+        },
+        "VIPRE": {
+            "detected": "True",
+            "result": "Malware.JS.Generic (JS)",
+            "update": "20160115",
+            "version": "46516"
+        },
+        "ViRobot": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "2014.3.20.0"
+        },
+        "Zillya": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160116",
+            "version": "2.0.0.2615"
+        },
+        "Zoner": {
+            "detected": "False",
+            "result": "None",
+            "update": "20160115",
+            "version": "1.0"
+        },
+        "nProtect": {
+            "detected": "True",
+            "result": "Trojan.JS.Agent.HPK",
+            "update": "20160115",
+            "version": "2016-01-14.01"
+        }
+    },
+    "sha1": "3bc3c6f0774425693fa68fd99b45aeb8faa5d79c",
+    "sha256": "cfa1cdc77a111497d3c397513b54015345e6962a972d2f0a76b84f3723ea0d3d",
+    "total": 56,
+    "verbose_msg": "Scan finished, information embedded"
+}
+
+9faa5e9c490ada35649710173cacd4ec is a malicious hash. Hit Count:26
